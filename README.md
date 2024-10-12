@@ -6,7 +6,8 @@
       <li>Desarrollador 1 - Guillermo Alejandro Castillo Campos - CC242330</li>
       <li>Desarrollador 2 - Arístides Alexander Hernández Valdez - HV241964</li>
       <li>Desarrollador 3 - Rossman Antonio Cabrera Dávila - CD240690</li>
-      <li>Desarrollador 4 - Rony Ariel Villela Perdomo - VP231785</li>
+      <li>Desarrollador 4 - Jefferson Steven Velasco Álvarez - VA242207</li>
+      <li>Desarrollador 5 - Rony Ariel Villela Perdomo - VP231785</li>
     </ul>
 </div>
 <div>
