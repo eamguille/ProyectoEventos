@@ -13,7 +13,7 @@
   <h3>🌐 Enlaces</h3>
   <ul>
     <li>
-        <a href="https://miro.com/welcomeonboard/ZHRVSEcyWmNQQTZsYXVSZnVCMnhVSnozMVpKTTdrOEVhZTRXbjNaNDd4cUlLTmdWQ1RvQ2IweFZKbzBUbTZOc3wzNDU4NzY0NjAzMDAyMjAyMTg5fDI=?share_link_id=401043310820">Enlace al cronograma de actividades</a>
+        <a href="https://miro.com/welcomeonboard/ZHRVSEcyWmNQQTZsYXVSZnVCMnhVSnozMVpKTTdrOEVhZTRXbjNaNDd4cUlLTmdWQ1RvQ2IweFZKbzBUbTZOc3wzNDU4NzY0NjAzMDAyMjAyMTg5fDI=?share_link_id=401043310820" target="_blank">Enlace al cronograma de actividades</a>
     </li>
     <li>
         <a href="">Enlace a los diseños</a>
