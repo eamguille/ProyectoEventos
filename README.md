@@ -1,13 +1,22 @@
 # Sistema para una empresa organizadora de Eventos
 
-<div style="background: rgb(150,63,232); padding: 30px; text-align: center;">
-  <p>
-    <strong style="margin-bottom: 10px;">Intregantes</strong>
+<div>
+    <h3>👨‍💻 Desarrolladores</h3>
     <ul>
-      <li>Guillermo Alejandro Castillo Campos CC242330</li>
-      <li>Arístides Alexander Hernández Valdez HV241964</li>
-      <li>Rossman Antonio Cabrera Dávila CD240690</li>
-      <li>Rony Ariel Villela Perdomo VP231785</li>
+      <li>Desarrollador 1 - Guillermo Alejandro Castillo Campos - CC242330</li>
+      <li>Desarrollador 2 - Arístides Alexander Hernández Valdez - HV241964</li>
+      <li>Desarrollador 3 - Rossman Antonio Cabrera Dávila - CD240690</li>
+      <li>Desarrollador 4 - Rony Ariel Villela Perdomo - VP231785</li>
     </ul>
-  </p>
+</div>
+<div>
+  <h3>🌐 Enlaces</h3>
+  <ul>
+    <li>
+        <a href="https://miro.com/welcomeonboard/ZHRVSEcyWmNQQTZsYXVSZnVCMnhVSnozMVpKTTdrOEVhZTRXbjNaNDd4cUlLTmdWQ1RvQ2IweFZKbzBUbTZOc3wzNDU4NzY0NjAzMDAyMjAyMTg5fDI=?share_link_id=401043310820">Enlace al cronograma de actividades</a>
+    </li>
+    <li>
+        <a href="">Enlace a los diseños</a>
+    </li>
+  </ul>
 </div>
