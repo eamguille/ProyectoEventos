@@ -10,7 +10,7 @@
     </ul>
 </div>
 <div>
-  <h3>🌐 Enlaces</h3>
+  <h3>🌐 Enlaces (haz clic con el botón derecho y selecciona "Abrir en una pestaña nueva")</h3>
   <ul>
     <li>
         <a href="https://miro.com/welcomeonboard/ZHRVSEcyWmNQQTZsYXVSZnVCMnhVSnozMVpKTTdrOEVhZTRXbjNaNDd4cUlLTmdWQ1RvQ2IweFZKbzBUbTZOc3wzNDU4NzY0NjAzMDAyMjAyMTg5fDI=?share_link_id=401043310820" target="_blank">Enlace al cronograma de actividades</a>
@@ -20,5 +20,3 @@
     </li>
   </ul>
 </div>
-
-- [Documentación]([https://enlace-a-la-documentacion.com](https://miro.com/welcomeonboard/ZHRVSEcyWmNQQTZsYXVSZnVCMnhVSnozMVpKTTdrOEVhZTRXbjNaNDd4cUlLTmdWQ1RvQ2IweFZKbzBUbTZOc3wzNDU4NzY0NjAzMDAyMjAyMTg5fDI=?share_link_id=401043310820)) _(haz clic con el botón derecho y selecciona "Abrir en una pestaña nueva")_
