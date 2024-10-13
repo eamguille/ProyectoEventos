@@ -17,7 +17,7 @@
         <a href="https://miro.com/welcomeonboard/ZHRVSEcyWmNQQTZsYXVSZnVCMnhVSnozMVpKTTdrOEVhZTRXbjNaNDd4cUlLTmdWQ1RvQ2IweFZKbzBUbTZOc3wzNDU4NzY0NjAzMDAyMjAyMTg5fDI=?share_link_id=401043310820" target="_blank">Enlace al cronograma de actividades</a>
     </li>
     <li>
-        <a href="https://www.figma.com/design/Jh9VizVKnJOONurafSItxW/DAS?node-id=0-1&t=rzOugFjuUoftwk96-1 ">Enlace a los diseños</a>
+        <a href="https://www.figma.com/file/Jh9VizVKnJOONurafSItxW?node-id=0:1&t=rzOugFjuUoftwk96-1&locale=en&type=design">Enlace a los diseños</a>
     </li>
   </ul>
 </div>
